@@ -32,7 +32,7 @@
     "url": "https://github.com/beenote/angular-material-datetimepicker"
   },
   "devDependencies": {
-    "@web/dev-server": "^0.1.22",
-    "esbuild": "^0.12.25"
+    "@web/dev-server": "^0.1.25",
+    "esbuild": "^0.13.7"
   }
 }
