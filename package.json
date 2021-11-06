@@ -16,7 +16,7 @@
   "homepage": "https://beenote.github.io/angular-material-datetimepicker/",
   "main": "js/angular-material-datetimepicker.js",
   "scripts": {
-    "build": "node build",
+    "build": "yarn node build",
     "start": "web-dev-server --watch --open"
   },
   "dependencies": {
@@ -32,7 +32,8 @@
     "url": "https://github.com/beenote/angular-material-datetimepicker"
   },
   "devDependencies": {
-    "@web/dev-server": "^0.1.25",
-    "esbuild": "^0.13.7"
-  }
+    "@web/dev-server": "^0.1.27",
+    "esbuild": "^0.13.12"
+  },
+  "packageManager": "yarn@3.1.0"
 }
